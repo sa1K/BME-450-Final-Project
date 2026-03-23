@@ -1,7 +1,7 @@
 # Title: Identification of Pneumonia from Pediatric X-rays
 ## Team members
 
-    Sai Karthik (sa1K), Makayla Phillips (GitHubUserB)
+    Sai Karthik (sa1K), Makayla Phillips (THEDragon-007)
     
 ## Project decription
 
